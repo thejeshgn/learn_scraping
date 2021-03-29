@@ -2,10 +2,14 @@
 # Thejesh <i@thejeshgn.com>, GNU/GPL v3
 ###############################################################################
 # Exercise: Given a url and table_id, get the content of table as CSV
-#
+#   URL = https://thejeshgn.github.io/learn_scraping/table1.html
+#   Table = Example Table 
+#   and 
+#   Table = Districts of India 
 # Hint: Use python `requests` and `BeautifulSoup` libraries.
-# `requests` is a python library used to get html content.
-# `BeautifulSoup` is a python library used to parse html content.
+#  `requests` is a python library used to get html content.
+#  `BeautifulSoup` is a python library used to parse html content.
+#  Try https://docs.python.org/3/library/csv.html#csv.writer for CSV writing
 #
 # Implement get_table_and_save function below.
 ###############################################################################
@@ -13,8 +17,8 @@
 
 # TODO Import requests and BeautifulSoup
 
-# This function should return the title of the url
-def get_table_and_save(url, table_id, csv_name):
+# This function should True if everything is okay
+def get_table_and_save(url, table_id, csv_file_path):
     # TODO Get the content of the web page using requests
 
     # TODO Parse the content using BeautifulSoup html parser
@@ -23,7 +27,8 @@ def get_table_and_save(url, table_id, csv_name):
 
     # TODO Convert to CSV
 
-    # TODO Save as CSV
+    # TODO Save CSV as .csv file at given csv_file_path
+
     return True
 
 

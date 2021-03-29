@@ -1,0 +1,37 @@
+"Map key","Name of State or Union Territory","Number of Districts","Population[4]","Population/district"
+1,"Andhra Pradesh",13,49386799,3798985
+2,"Arunachal Pradesh",25,1383727,57656
+3,"Assam",33,31169272,944523
+4,"Bihar",38,104099452,2739459
+5,"Chhattisgarh",27,25545198,946118
+6,"Goa",2,1458545,729273
+7,"Gujarat",33,60439692,1831506
+8,"Haryana",22,25351462,1152339
+9,"Himachal Pradesh",12,6864602,572050
+10,"Jharkhand",24,32988134,1374506
+11,"Karnataka",30,61095297,2036510
+12,"Kerala",14,33406061,2386147
+13,"Madhya Pradesh",52,72626809,1396669
+14,"Maharashtra",36,112374333,3121509
+15,"Manipur",16,2721756,170110
+16,"Meghalaya",11,2966889,269717
+17,"Mizoram",8,1097206,137151
+18,"Nagaland",11,1978502,179864
+19,"Odisha",30,41974218,1399141
+20,"Punjab",22,27743338,1261061
+21,"Rajasthan",33,68548437,2077225
+22,"Sikkim",4,610577,152644
+23,"Tamil Nadu",37,72147030,2254595
+24,"Telangana",31,35193978,1135290
+25,"Tripura",8,3673917,459240
+26,"Uttar Pradesh",75,199812341,2664165
+27,"Uttarakhand",13,10086292,775869
+28,"West Bengal",23,91276115,3968527
+"A","Andaman and Nicobar Islands",3,380581,126860
+"B","Chandigarh",1,1055450,1055450
+"C","Dadra and Nagar Haveli and Daman and Diu",3,586956,195652
+"D","Jammu and Kashmir",20,12258093,612905
+"E","Ladakh",2,290492,145246
+"F","Lakshadweep",1,64473,64473
+"G","Delhi",11,16787941,1526176
+"H","Puducherry",4,1247953,311988
